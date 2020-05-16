@@ -1,0 +1,25 @@
+<annotation>
+    <folder>images</folder>
+    <filename>9a08d039-3956-402c-8f10-10f2ca1d9729</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>human</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>14.385390281677246</xmin>
+            <ymin>25.383925437927246</ymin>
+            <xmax>675.6060600280762</xmax>
+            <ymax>593.1032180786133</ymax>
+        </bndbox>
+    </object>
+</annotation>
